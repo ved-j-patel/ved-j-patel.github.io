@@ -1,0 +1,1 @@
+index.html is the landing page of the project.
